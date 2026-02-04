@@ -1,0 +1,16 @@
+*{
+    background-color: gray;
+    margin: 3px 3px 3px;
+    border: 2px 2px;
+    padding: 6px 6px ;
+}
+.setting{
+    color: black;
+    font-family: fantasy;
+
+}
+#setup{
+    color: purple;
+    font-family: cursive;
+    font-size: medium;
+}
